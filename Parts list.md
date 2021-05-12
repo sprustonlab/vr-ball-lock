@@ -24,3 +24,10 @@
  * 900mm Servo Extension: [https://www.amazon.com/dp/B074SZXXGM](https://www.amazon.com/dp/B074SZXXGM) $10.90
 
  * Jumper wires: [https://www.amazon.com/dp/B07GD2BWPY](https://www.amazon.com/dp/B07GD2BWPY) $5.99
+
+ # Power cable
+
+## Cable fabrication (Steve)
+ ![Schematic cable](./imgs/cable_schematic.jpg)
+ ## Off the shelf solution
+ ![off the shelf cables](./imgs/cable_off_shelf.png)
