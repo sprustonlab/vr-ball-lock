@@ -19,7 +19,7 @@
 #define  I2CAdd 0x40
 
 #define triggerPin A0   // Pin that receives TTL trigger signal.
-#define ON_POSITION 130  // Angle of servos in ON state. (0-180)
+#define ON_POSITION 117  // Angle of servos in ON state. (0-180)
 #define OFF_POSITION 0   // Angle of servos in OFF state. (0-180)
 
 unsigned long readBuffer; // Stores values of trigger pin.
